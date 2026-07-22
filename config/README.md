@@ -1,0 +1,1 @@
+This directory previously contained config files. Old configuration included database credentials, JWT secrets, and cloud provider keys. These were rotated and removed from the repository history.
